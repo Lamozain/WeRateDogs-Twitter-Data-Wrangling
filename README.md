@@ -10,7 +10,7 @@ In addition, as per project specificacion, only original tweets/ratings that hav
 
 This project was completed as part of Udacity's [Data Analyst Nanodegree](https://eu.udacity.com/course/data-analyst-nanodegree--nd002) certification.
 
-## Data origin
+## Data Origin
 [We Rate Dogs](https://twitter.com/dog_rates) is a Twitter account with funny or interesting facts and pictures about dogs (mainly)...
 
 ## Results
